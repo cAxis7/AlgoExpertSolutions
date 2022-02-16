@@ -22,5 +22,3 @@ vector<vector<int>> getPermutations(vector<int> array) {
 	permutationsHelper(0, array, permutations);
   return permutations;
 }
-  
-}
