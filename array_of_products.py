@@ -1,4 +1,4 @@
-# O(n) memory and complexity
+# O(n) memory and complexity where n in the length of the input array
 def arrayOfProducts(array):
     # Write your code here.
 	products = [1 for _ in range(len(array))]
